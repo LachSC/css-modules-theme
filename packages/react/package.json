@@ -3,7 +3,7 @@
   "version": "2.3.0",
   "description": "Fast CSS Modules theming composition for react",
   "author": "Paul Klimashkin <paul.klimashkin@illumio.com>",
-  "homepage": "https://github.com/klimashkin/css-modules-theme/tree/master/packages/react#readme",
+  "homepage": "https://github.com/LachSC/css-modules-theme/tree/master/packages/react#readme",
   "license": "MIT",
   "main": "dist/react.cjs.js",
   "browser": "dist/react.umd.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klimashkin/css-modules-theme.git"
+    "url": "git+https://github.com/LachSC/css-modules-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/klimashkin/css-modules-theme/issues"
+    "url": "https://github.com/LachSC/css-modules-theme/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || || ^18.0.0"
